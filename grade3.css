@@ -518,3 +518,19 @@ div.output_subarea {
     flex: 1;
     max-width: calc(100% - 14ex);
 }
+
+div#pager {
+    background-color: #262931;
+}
+
+div#pager pre {
+    color: #CFD2D9;
+    background-color: #303845;
+    border: 0;
+}
+
+div#pager .ui-resizable-handle {
+    background: #39414F;
+    border-top: 1px solid #262931;
+    border-bottom: 1px solid #262931;
+}
